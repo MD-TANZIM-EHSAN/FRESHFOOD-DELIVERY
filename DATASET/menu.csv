@@ -1,0 +1,51 @@
+Restaurant_ID,Food_Item,Category,Price,Availability
+217,Food_1,Pasta,168,Out of Stock
+208,Food_2,Biryani,329,Out of Stock
+207,Food_3,Pizza,414,Available
+213,Food_4,Biryani,167,Out of Stock
+204,Food_5,Pizza,155,Out of Stock
+218,Food_6,Biryani,626,Available
+219,Food_7,Pizza,540,Out of Stock
+214,Food_8,Pasta,758,Available
+214,Food_9,Sushi,413,Out of Stock
+214,Food_10,Biryani,1004,Available
+208,Food_11,Pasta,566,Out of Stock
+205,Food_12,Biryani,1048,Available
+203,Food_13,Burger,679,Available
+216,Food_14,Pizza,914,Available
+215,Food_15,Pizza,610,Out of Stock
+212,Food_16,Pasta,1109,Available
+210,Food_17,Burger,1198,Available
+220,Food_18,Biryani,717,Out of Stock
+209,Food_19,Biryani,540,Out of Stock
+202,Food_20,Biryani,743,Available
+207,Food_21,Sushi,752,Out of Stock
+215,Food_22,Biryani,321,Available
+201,Food_23,Burger,785,Out of Stock
+211,Food_24,Sushi,120,Out of Stock
+212,Food_25,Pizza,190,Out of Stock
+212,Food_26,Burger,1165,Available
+206,Food_27,Pasta,1024,Available
+218,Food_28,Pasta,596,Available
+202,Food_29,Biryani,483,Out of Stock
+219,Food_30,Biryani,1167,Available
+203,Food_31,Pizza,963,Available
+208,Food_32,Pasta,345,Available
+215,Food_33,Sushi,514,Out of Stock
+219,Food_34,Burger,1193,Available
+201,Food_35,Sushi,127,Available
+202,Food_36,Pasta,686,Out of Stock
+209,Food_37,Biryani,679,Out of Stock
+202,Food_38,Pasta,250,Out of Stock
+210,Food_39,Sushi,696,Available
+214,Food_40,Pizza,491,Out of Stock
+216,Food_41,Pizza,1130,Available
+205,Food_42,Biryani,650,Available
+208,Food_43,Pizza,172,Out of Stock
+205,Food_44,Sushi,783,Out of Stock
+215,Food_45,Biryani,678,Available
+215,Food_46,Sushi,384,Available
+219,Food_47,Biryani,321,Available
+203,Food_48,Pasta,1097,Available
+211,Food_49,Sushi,1034,Available
+207,Food_50,Sushi,192,Out of Stock
