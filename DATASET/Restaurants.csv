@@ -1,0 +1,21 @@
+﻿Restaurant_ID,Name,Cuisine_Type,Location,Rating,Total_Orders
+201,Restaurant_1,Italian,City_5,4.3,902
+202,Restaurant_2,Indian,City_2,4.1,110
+203,Restaurant_3,Mexican,City_5,4.5,377
+204,Restaurant_4,Chinese,City_2,4.4,230
+205,Restaurant_5,Italian,City_3,4.3,852
+206,Restaurant_6,Mexican,City_3,4.6,596
+207,Restaurant_7,Indian,City_2,3.6,248
+208,Restaurant_8,Chinese,City_1,3.8,934
+209,Restaurant_9,Chinese,City_3,4.5,293
+210,Restaurant_10,Mexican,City_4,4.8,447
+211,Restaurant_11,Fast Food,City_1,4.3,651
+212,Restaurant_12,Italian,City_5,4,354
+213,Restaurant_13,Fast Food,City_4,3.5,513
+214,Restaurant_14,Chinese,City_1,4.1,816
+215,Restaurant_15,Italian,City_2,3.6,305
+216,Restaurant_16,Indian,City_3,4.4,948
+217,Restaurant_17,Indian,City_4,3.5,515
+218,Restaurant_18,Fast Food,City_4,3.1,305
+219,Restaurant_19,Fast Food,City_4,3.8,918
+220,Restaurant_20,Fast Food,City_3,4.6,411
